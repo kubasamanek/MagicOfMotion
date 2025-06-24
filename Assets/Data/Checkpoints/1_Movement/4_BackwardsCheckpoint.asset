@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25223ae6c2268c349a04271daa5ab59a, type: 3}
+  m_Name: 4_BackwardsCheckpoint
+  m_EditorClassIdentifier: 
+  Name: Backwards
+  LeapVideo: {fileID: 32900000, guid: 550a8019ff0c4554086747d64ef3705c, type: 3}
+  LeapText: 'If you need to, you can go backwards by turning your fists against your
+    face.
+
+'
+  RgbVideo: {fileID: 32900000, guid: 550a8019ff0c4554086747d64ef3705c, type: 3}
+  RgbText: 'If you need to, you can go backwards by turning your fists against your
+    face.
+
+'
+  RenderTexture: {fileID: 8400000, guid: 40a5843888c2e5743b8c03acd2c3613e, type: 2}
+  UI: {fileID: 1307108169640623324, guid: f5cd61508872bf641a173b21666aaf4e, type: 3}
+  HintLeap: Follow the path to next checkpoint
+  HintRgb: Follow the path to next checkpoint

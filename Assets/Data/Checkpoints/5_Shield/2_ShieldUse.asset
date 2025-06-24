@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25223ae6c2268c349a04271daa5ab59a, type: 3}
+  m_Name: 2_ShieldUse
+  m_EditorClassIdentifier: 
+  Name: Shield Use
+  LeapVideo: {fileID: 32900000, guid: d1d3f83c001c6054683e127c4358ed82, type: 3}
+  LeapText: "\rYou can use a shield to stop the arrows!\n\nClose both your hands
+    to fists and rotate them towards your face. "
+  RgbVideo: {fileID: 32900000, guid: d1d3f83c001c6054683e127c4358ed82, type: 3}
+  RgbText: 
+  RenderTexture: {fileID: 8400000, guid: 0147c6b3a4708cd49bcbc2248d8b90c5, type: 2}
+  UI: {fileID: 1307108169640623324, guid: f5cd61508872bf641a173b21666aaf4e, type: 3}
+  HintLeap: 
+  HintRgb: 

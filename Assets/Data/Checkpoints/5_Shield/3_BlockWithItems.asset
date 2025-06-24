@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25223ae6c2268c349a04271daa5ab59a, type: 3}
+  m_Name: 3_BlockWithItems
+  m_EditorClassIdentifier: 
+  Name: Shield Items
+  LeapVideo: {fileID: 32900000, guid: e1dc5dc2431aa384bb3b93cdfc350341, type: 3}
+  LeapText: Try to block the arrows with other objects as well.
+  RgbVideo: {fileID: 0}
+  RgbText: Good job! Run to the checkpoint.
+  RenderTexture: {fileID: 8400000, guid: 29fb1d9ffa1559240bc6263f7c4ee663, type: 2}
+  UI: {fileID: 1307108169640623324, guid: f5cd61508872bf641a173b21666aaf4e, type: 3}
+  HintLeap: 
+  HintRgb: 

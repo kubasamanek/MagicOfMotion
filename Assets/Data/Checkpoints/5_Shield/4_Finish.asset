@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25223ae6c2268c349a04271daa5ab59a, type: 3}
+  m_Name: 4_Finish
+  m_EditorClassIdentifier: 
+  Name: Shield Finish
+  LeapVideo: {fileID: 0}
+  LeapText: "Good job! Run to the checkpoint.\r"
+  RgbVideo: {fileID: 0}
+  RgbText: 
+  RenderTexture: {fileID: 0}
+  UI: {fileID: 1307108169640623324, guid: ee792a12f1af47348ab785e491f3b36c, type: 3}
+  HintLeap: 
+  HintRgb: 

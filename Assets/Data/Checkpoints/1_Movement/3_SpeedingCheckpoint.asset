@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25223ae6c2268c349a04271daa5ab59a, type: 3}
+  m_Name: 3_SpeedingCheckpoint
+  m_EditorClassIdentifier: 
+  Name: Speeding
+  LeapVideo: {fileID: 32900000, guid: d294fd1be8780b540bf52c3cecab44d7, type: 3}
+  LeapText: 'You can go faster by pulling higher. Or you can slow down or even stop
+    if you pull less.
+
+'
+  RgbVideo: {fileID: 32900000, guid: d294fd1be8780b540bf52c3cecab44d7, type: 3}
+  RgbText: 'You can go faster by pulling higher. Or you can slow down or even stop
+    if you pull less.
+
+'
+  RenderTexture: {fileID: 8400000, guid: d3117553c167da9458dc85c4f272c558, type: 2}
+  UI: {fileID: 1307108169640623324, guid: f5cd61508872bf641a173b21666aaf4e, type: 3}
+  HintLeap: Follow the path to next checkpoint
+  HintRgb: Follow the path to next checkpoint

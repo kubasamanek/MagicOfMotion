@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25223ae6c2268c349a04271daa5ab59a, type: 3}
+  m_Name: 1_ElectrifyStart
+  m_EditorClassIdentifier: 
+  Name: Electrify Start
+  LeapVideo: {fileID: 32900000, guid: 0fc075671954ed54d8aded26f28cd141, type: 3}
+  LeapText: "There are goblins standing close to each other! \r\n\r\nUse electrify
+    spell by charging your right hand with fully open palm facing upwards. Raise
+    your hand high to reach the sky!\r"
+  RgbVideo: {fileID: 32900000, guid: 2bd5ea8d160ac0440bb93d2c09170f81, type: 3}
+  RgbText: "There are goblins standing close to each other! \r\n\r\nUse electrify
+    spell by charging your right hand with index finger facing upwards. Raise your
+    hand high to reach the sky!"
+  RenderTexture: {fileID: 8400000, guid: 6738490ce78a1284092fc4559e8c3400, type: 2}
+  UI: {fileID: 1307108169640623324, guid: f5cd61508872bf641a173b21666aaf4e, type: 3}
+  HintLeap: 
+  HintRgb: 

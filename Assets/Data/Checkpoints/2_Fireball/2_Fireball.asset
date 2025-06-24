@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25223ae6c2268c349a04271daa5ab59a, type: 3}
+  m_Name: 2_Fireball
+  m_EditorClassIdentifier: 
+  Name: Fireball
+  LeapVideo: {fileID: 32900000, guid: 5df590cb7bf343e45a7700a707f228f3, type: 3}
+  LeapText: "To make a fireball, create it in your right hand by closing it with
+    palm facing down, then rotate the palm upward and fully open the hand. Destroy
+    all boxes to continue.\r"
+  RgbVideo: {fileID: 32900000, guid: 9d0537b147abe4345bc23019269ae8a9, type: 3}
+  RgbText: "To fire a fireball, fully close the right hand with your palm facing
+    you. Then rotate your hand a fully open it to shoot it. Destroy all boxes to
+    continue.\r"
+  RenderTexture: {fileID: 8400000, guid: 921aa12480272ff478cbedccba8e5d5d, type: 2}
+  UI: {fileID: 1307108169640623324, guid: f5cd61508872bf641a173b21666aaf4e, type: 3}
+  HintLeap: Hit the boxes directly
+  HintRgb: 

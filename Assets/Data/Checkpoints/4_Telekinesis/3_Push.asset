@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25223ae6c2268c349a04271daa5ab59a, type: 3}
+  m_Name: 3_Push
+  m_EditorClassIdentifier: 
+  Name: Telekinesis push
+  LeapVideo: {fileID: 32900000, guid: e2e78a2ae856e904dad37a771c335905, type: 3}
+  LeapText: 'You can use force to shoot the control object forward. Try to hit enemies
+    with a rock.
+
+    
+
+    Push swiftly forward with your right open hand!'
+  RgbVideo: {fileID: 0}
+  RgbText: 
+  RenderTexture: {fileID: 8400000, guid: 0e75fba2e5dbd464bb38d69e91d26b30, type: 2}
+  UI: {fileID: 1307108169640623324, guid: f5cd61508872bf641a173b21666aaf4e, type: 3}
+  HintLeap: Hand fully open and swift move
+  HintRgb: 
